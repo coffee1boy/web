@@ -1,0 +1,5 @@
+C:\Users\张焕明\Desktop\web\weblogin\bin\weblogin.dll
+C:\Users\张焕明\Desktop\web\weblogin\bin\weblogin.pdb
+C:\Users\张焕明\Desktop\web\weblogin\obj\Debug\weblogin.csprojResolveAssemblyReference.cache
+C:\Users\张焕明\Desktop\web\weblogin\obj\Debug\weblogin.dll
+C:\Users\张焕明\Desktop\web\weblogin\obj\Debug\weblogin.pdb
